@@ -22,11 +22,13 @@ hoi {}, my name is {}! if you have any questions about how to use me please give
 
 im a group manager bot maintained by  [Sandeep](tg://user?id={}). 
 
-and created by @akhilbaiju from banHammerMarie bot of PaulLauresen
+and created by @akhilbaiju from banHammerMarie bot of PaulLauresen .You can also create a bot like me
+**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
+"""
 
 HELP_STRINGS = """
 
-Hello! my name *{}*.
+Hello my name *{}*.
 
 *Main* available commands:
  - /start: Start the bot...
